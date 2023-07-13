@@ -1,0 +1,22 @@
+.news-card
+{
+    padding:20px;
+    border:2px solid black;
+    border-radius: 4px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+    background-color: rgb(213, 206, 198);
+    
+}
+img
+{
+    margin-bottom: 20px;
+    width:90%;
+}
+h2{
+    margin-bottom:20px;
+}
+p
+{
+    color:#333;
+}
